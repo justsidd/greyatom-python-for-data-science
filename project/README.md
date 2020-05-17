@@ -5,6 +5,6 @@
 
 ### Learnings from the project
 
- I've learned to some basic data types and programming in python 2.7
+ I've learned some basic data types and programming in python 2.7
 
 
